@@ -12,5 +12,10 @@ options:
   ```
 Example:
 ```
-py ./mssql_to_odata_json.py --print source.sql output.json
+python ./mssql_to_odata_json.py --print source.sql output.json
+```
+
+Example (exe):
+```
+mssql_to_odata_json.exe --print source.sql output.json
 ```
